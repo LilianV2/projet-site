@@ -7,6 +7,6 @@ let burgerMenu = document.getElementById('navigation')
 menu.addEventListener('click', function(){
         burgerMenu.style.visibility = "visible";
         burgerMenu.style.animationName = "animMenu"
-        burgerMenu.style.animationDuration = "400ms";
+        burgerMenu.style.animationDuration = "350ms";
 })
 
